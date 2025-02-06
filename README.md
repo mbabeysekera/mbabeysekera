@@ -1,17 +1,21 @@
 ## Hi there 👋
 
-I am **Buddhika Abeysekera** (Software Engineer - DevSecOps) with experience in Software Engineering, DevOps, and Application Security.
-I have also worked in diverse industries, including **Disaster Management & Emergency Response, Telecommunications, and FinTech**.
+I am **Buddhika Abeysekera** (Software Engineer - DevSecOps) with experience in Application Development, DevOps, and Application Security.
+As an engineer, I have worked in diverse industries, including **Disaster Management & Emergency Response, Telecommunications, and FinTech**.
 Collaborating in these industries has given me the opportunity to work with diverse teams from various cultural backgrounds, and I’ve truly enjoyed the experience.
 
-### 🔧 Tech Stack & Tools
+### Tech Stack & Tools
 
 - 🚀 Currently developing fullstack applications using **TypeScript** with **Next.js, NestJS, and React Native**
 - 🐳 Using **Docker** for containerizing applications
 - ⚙️ Automating deployments with **GitLab CI**
 - 🔒 Enhancing security with **vulnerability scanning tools** like **Trivy** and **Semgrep** for software composition analysis
 
-### 🔧 Skills & Expertise
+### Reach Me Via...
+
+<a href="https://www.linkedin.com/in/babey/"><img align="left" src="mbabeysekera\linkedin-logo.png" alt="Buddhika Abeysekera | Linkedin" width="35px"/></a>
+
+### Skills & Expertise
 
 - 💻 Software Development – Full-stack development, APIs, and scalable applications
 
