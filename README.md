@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I am Buddhika! 👋
 
 I am **Buddhika Abeysekera** (Software Engineer - DevSecOps) with experience in Application Development, DevOps, and Application Security.
 As an engineer, I have worked in diverse industries, including **Disaster Management & Emergency Response, Telecommunications, and FinTech**.
