@@ -14,6 +14,7 @@ Collaborating in these industries has given me the opportunity to work with dive
 ### 🔧 Skills & Expertise
 
 - 💻 Software Development – Full-stack development, APIs, and scalable applications
+
   ![Static Badge](https://img.shields.io/badge/Code-C-informational?logo=c&color=A8B9CC)
   ![Static Badge](https://img.shields.io/badge/Code-C++-informational?logo=cplusplus&color=00599C)
   ![Static Badge](https://img.shields.io/badge/Code-Java-informational?logo=openjdk&color=000000)
@@ -31,6 +32,7 @@ Collaborating in these industries has given me the opportunity to work with dive
   ![Static Badge](https://img.shields.io/badge/PM-Asana-informational?logo=asana&color=F06A6A)
 
 - 🚀 DevOps – CI/CD, Infrastructure as Code (IaC), and cloud automation
+
   ![Static Badge](https://img.shields.io/badge/Tools-Git-informational?logo=git&color=F05032)
   ![Static Badge](https://img.shields.io/badge/Tools-Terraform-informational?logo=terraform&color=844FBA)
   ![Static Badge](https://img.shields.io/badge/Tools-NPM-informational?logo=npm&color=CB3837)
@@ -38,6 +40,7 @@ Collaborating in these industries has given me the opportunity to work with dive
   ![Static Badge](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&color=2496ED)
 
 - 🔒 Application Security – Secure coding practices, vulnerability assessments
+
   ![Static Badge](https://img.shields.io/badge/Scan-SonarQube-informational?logo=sonarqube&color=4E9BCD)
   ![Static Badge](https://img.shields.io/badge/Scan-Trivy-informational?logo=trivy&color=1904DA)
   ![Static Badge](https://img.shields.io/badge/Scan-Semgrep-informational?color=1DBF73)
