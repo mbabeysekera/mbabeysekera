@@ -13,8 +13,12 @@ Collaborating in these industries has given me the opportunity to work with dive
 
 ### Reach Me Via...
 
-<a href="https://www.linkedin.com/in/babey/"><img align="left" src="https://github.com/mbabeysekera/mbabeysekera/blob/main/linkedin-logo.png" alt="Buddhika Abeysekera | Linkedin" width="35px"/></a>
-<a href="babey.lk@gmail.com"><img align="left" src="https://github.com/mbabeysekera/mbabeysekera/blob/main/gmail-logo.png" alt="Buddhika Abeysekera | Gmail" width="35px"/></a>
+<a href="https://www.linkedin.com/in/babey/">
+  <img src="https://github.com/mbabeysekera/mbabeysekera/blob/main/linkedin-logo.png" alt="LinkedIn" width="40" height="40">
+</a>
+<a href="babey.lk@gmail.com">
+  <img src="https://github.com/mbabeysekera/mbabeysekera/blob/main/gmail-logo.png" alt="Gmail" width="40" height="40">
+</a>
 
 ### Skills & Expertise
 
