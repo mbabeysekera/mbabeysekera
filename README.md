@@ -16,7 +16,7 @@ Collaborating in these industries has given me the opportunity to work with dive
 <a href="https://www.linkedin.com/in/babey/">
   <img src="https://github.com/mbabeysekera/mbabeysekera/blob/main/linkedin-logo.png" alt="LinkedIn" width="40" height="40">
 </a>
-<a href="babey.lk@gmail.com">
+<a href="mailto:babey.lk@gmail.com">
   <img src="https://github.com/mbabeysekera/mbabeysekera/blob/main/gmail-logo.png" alt="Gmail" width="40" height="40">
 </a>
 
