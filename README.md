@@ -1,6 +1,6 @@
 ## Hey, I am Buddhika! 👋
 
-I am **Buddhika Abeysekera** (Software Engineer - DevSecOps) with experience in Application Development, DevOps, and Application Security.
+I am a Software Engineer with experience in Application Development, DevOps, and Application Security.
 As an engineer, I have worked in diverse industries, including **Disaster Management & Emergency Response, Telecommunications, and FinTech**.
 Collaborating in these industries has given me the opportunity to work with diverse teams from various cultural backgrounds, and I’ve truly enjoyed the experience.
 
@@ -53,6 +53,12 @@ Collaborating in these industries has given me the opportunity to work with dive
   ![Static Badge](https://img.shields.io/badge/Scan-SonarQube-informational?logo=sonarqube&color=4E9BCD)
   ![Static Badge](https://img.shields.io/badge/Scan-Trivy-informational?logo=trivy&color=1904DA)
   ![Static Badge](https://img.shields.io/badge/Scan-Semgrep-informational?color=1DBF73)
+
+### Stats Summary
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=mbabeysekera)](https://github.com/mbabeysekera)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbabeysekera&layout=compact)](https://github.com/mbabeysekera)
 
 <!--
 **mbabeysekera/mbabeysekera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
