@@ -31,7 +31,7 @@ Collaborating in these industries has given me the opportunity to work with dive
   ![Static Badge](https://img.shields.io/badge/Code-TypeScript-informational?logo=typescript&color=3178C6)
 
   ![Static Badge](https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql&color=4169E1)
-  ![Static Badge](https://img.shields.io/badge/SQL-MySQL-informational?logo=typescript&color=4479A1)
+  ![Static Badge](https://img.shields.io/badge/SQL-MySQL-informational?logo=mysql&color=4479A1)
   ![Static Badge](https://img.shields.io/badge/SQL-Oracle11-informational?color=2F61B4)
 
   ![Static Badge](https://img.shields.io/badge/Test-Junit5-informational?logo=junit5&color=25A162)
