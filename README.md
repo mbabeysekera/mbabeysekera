@@ -55,7 +55,7 @@ Collaborating in these industries has given me the opportunity to work with dive
   ![Static Badge](https://img.shields.io/badge/Scan-Trivy-informational?logo=trivy&color=1904DA)
   ![Static Badge](https://img.shields.io/badge/Scan-Semgrep-informational?color=1DBF73)
 
-### Stats Summary
+<!-- ### Stats Summary -->
 
 <!-- [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mbabeysekera)](https://github.com/mbabeysekera) -->
 
