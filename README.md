@@ -59,7 +59,7 @@ Collaborating in these industries has given me the opportunity to work with dive
 
 <!-- [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mbabeysekera)](https://github.com/mbabeysekera) -->
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbabeysekera&layout=compact)](https://github.com/mbabeysekera)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbabeysekera&layout=compact)](https://github.com/mbabeysekera)-->
 
 <!--
 **mbabeysekera/mbabeysekera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
